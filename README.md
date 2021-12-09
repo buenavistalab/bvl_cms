@@ -12,9 +12,9 @@
 
 This project was developed with the following technologies:
 
-- [React](https://reactjs.org/)
-- [react-slick](https://react-slick.neostack.com/)
-- [Smooth Scroll](https://github.com/iamdustan/smoothscroll)
+- [gatsby](https://www.gatsbyjs.com/)
+- [netlify-cms-app](https://github.com/netlify/netlify-cms/tree/master)
+- [prismjs](https://prismjs.com/)
 - [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
 ## :wrench: How To Use
@@ -32,7 +32,7 @@ $ yarn start
 $ yarn build
 ```
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/70f96276-47bb-463c-8356-9b6efa69cd28/deploy-status)](https://app.netlify.com/sites/wogofilmes/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9e924a1b-1e19-4fe3-b81b-bc0e5ffef77d/deploy-status)](https://app.netlify.com/sites/bvl-cms/deploys)
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
