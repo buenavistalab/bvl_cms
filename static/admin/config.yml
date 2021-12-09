@@ -4,8 +4,8 @@ backend:
   name: git-gateway
   branch: main
 
-display_url: https://wogofilmes.com.br/
-logo_url: https://raw.githubusercontent.com/saulofilho/wogofilmes/main/static/assets/logos/logo.jpg
+display_url: https://bvl-cms.netlify.app/
+logo_url: https://raw.githubusercontent.com/buenabistalab/bvl_cms/main/static/assets/logos/logo.png
 
 media_folder: static/assets
 public_folder: /assets

@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `buenavistalab Content Management System`,
     description: `Content Management System Boilerplate`,
-    siteUrl: `https://wogofilmes.com.br`,
+    siteUrl: `https://bvl-cms.netlify.app/`,
     home: {
       title: `buenavistalab Content Management System`,
       description: `A simple bootstrap to initialize a Content Management System project`,
