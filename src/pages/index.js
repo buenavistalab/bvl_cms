@@ -4,6 +4,7 @@ import { graphql } from 'gatsby'
 import Layout from "../components/Layout"
 import Home from '../components/Home'
 import QuemSomos from '../components/QuemSomos'
+import Contato from '../components/Contato'
 import PostLink from "../components/PostLink"
 
 const IndexPage = ({
@@ -19,18 +20,21 @@ const IndexPage = ({
 
   return (
     <Layout>
-        <Helmet>
-          <title>{site.siteMetadata.title}</title>
-          <meta name="description" content={site.siteMetadata.description} />
-        </Helmet>
-        <Home />
-        <QuemSomos />
-        <div className="trabalhos-home-index container">
-          <h1>Trabalhos</h1>
-          <div className="posts-list">
-            {Posts}
-          </div>
+      <Helmet>
+        <title>{site.siteMetadata.title}</title>
+        <meta name="description" content={site.siteMetadata.description} />
+      </Helmet>
+      <Home />
+      <QuemSomos />
+      <div className="trabalhos-home-index container">
+        <h1>
+          Lorem Ipsum
+        </h1>
+        <div className="posts-list">
+          {Posts}
         </div>
+      </div>
+      <Contato />
     </Layout>
   )
 }

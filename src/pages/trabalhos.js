@@ -21,10 +21,11 @@ const Trabalhos = ({
     <Layout>
       <div className="trabalhos-home container">
         <div className="trabalhos-wrapper">
-          <h1>Trabalhos</h1>
+          <h1>
+            Lorem Ipsum
+          </h1>
           <p>
-            Aqui as ideias que se transformam em vídeos capazes de conectar pessoas.
-            Do roteiro, à produção e à finalização completa de cada projeto.
+            The standard Lorem Ipsum passage, used since the 1500s
           </p>
         </div>
         <PostSection posts={data} />

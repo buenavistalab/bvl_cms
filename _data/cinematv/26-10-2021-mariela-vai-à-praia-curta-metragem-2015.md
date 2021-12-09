@@ -1,8 +1,8 @@
 ---
 template: CinemaTV
-img: /assets/014-mariela.jpg
-title: MARIELA VAI À PRAIA | Curta-metragem, 2015
-subtitle: Projeto contemplado no Prêmio Catarinense de Cinema 2013/2014
+img: /assets/images/generative2.jpg
+title: 1914 translation by H. Rackham
+subtitle: Lorem Ipsum
 ---
 Gênero: Drama
 

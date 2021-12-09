@@ -1,8 +1,8 @@
 ---
 template: CinemaTV
-img: /assets/003-mariela.jpg
-title: MARIELA VAI À PRAIA | Série, 10 episódios 2018
-subtitle: Projeto em fase de captação
+img: /assets/images/tri.jpg
+title: Section 1.10.33 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
+subtitle: Lorem Ipsum
 ---
 Gênero: Drama
 

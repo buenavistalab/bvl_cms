@@ -1,8 +1,8 @@
 ---
 template: CinemaTV
-img: /assets/vampiro.png
-title: O VAMPIRO DE SANTA CATARINA | Longa-metragem
-subtitle: Projeto em fase de captação
+img: /assets/images/bvl2.png
+title: Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
+subtitle: Lorem Ipsum
 ---
 Gênero: Comédia
 

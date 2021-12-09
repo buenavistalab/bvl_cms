@@ -1,9 +1,8 @@
 ---
 template: CinemaTV
-img: /assets/horizonte.jpg
-title: HORIZONTE PERDIDO | Longa-metragem
-subtitle: Projeto contemplado no Prêmio Catarinense de Cinema 2012 na categoria
-  Desenvolvimento de Roteiros.
+img: /assets/images/generative.jpg
+title: Section 1.10.33 of "de Finibus Bonorum et Malorum"
+subtitle: Lorem Ipsum
 ---
 Gênero: Ficção/Aventura
 

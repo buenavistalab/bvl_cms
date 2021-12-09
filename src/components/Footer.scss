@@ -1,5 +1,5 @@
 footer {
-  color: var(--text-color);
+  color: var(--green);
   height: auto;
   padding: 50px 0 0;
 }
@@ -10,7 +10,7 @@ footer .infos {
   flex-flow: column;
 }
 footer .infos a svg:hover {
-  stroke: var(--yellow);
+  stroke: var(--green);
 }
 .footer-wrapper {
   display: flex;

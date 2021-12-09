@@ -1,11 +1,11 @@
 {
-  "name": "wogo-filmes",
-  "description": "Wogo Filmes",
-  "author": "buenavistalab",
+  "name": "bvl_cms",
+  "description": "Content Management System Boilerplate",
+  "author": "buenavistalab softwares",
   "version": "1.0.0",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/saulofilho/wogo-filmes"
+    "url": "https://github.com/buenavistalab/bvl_cms"
   },
   "dependencies": {
     "gatsby": "^4.3.0",
@@ -22,7 +22,7 @@
     "gatsby-transformer-remark": "^5.3.0",
     "lodash": "^4.17.21",
     "netlify-cms-app": "^2.15.61",
-    "node-sass": "^7.0.0",
+    "node-sass": "^6.0.1",
     "prismjs": "^1.25.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -32,14 +32,14 @@
   "devDependencies": {
     "prettier": "^2.5.1"
   },
-  "homepage": "https://github.com/saulofilho/wogo-filmes",
+  "homepage": "https://github.com/buenavistalab/bvl_cms",
   "keywords": [
     "gatsby",
     "netlify cms"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saulofilho/wogo-filmes"
+    "url": "git+https://github.com/buenavistalab/bvl_cms"
   },
   "scripts": {
     "build": "gatsby build",

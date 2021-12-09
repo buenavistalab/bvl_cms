@@ -1,8 +1,8 @@
 ---
 template: CinemaTV
-img: /assets/espirito.png
-title: O ESPÍRITO MANÉ DE NATAL | Curta-metragem
-subtitle: Projeto em fase de captação
+img: /assets/images/bvl.png
+title: 1914 translation by H. Rackham
+subtitle: Lorem Ipsum
 ---
 Gênero: Comédia/Infanto-Juvenil
 

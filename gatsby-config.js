@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `WOGO FILMES`,
-    description: `Description example.`,
+    title: `buenavistalab Content Management System`,
+    description: `Content Management System Boilerplate`,
     siteUrl: `https://wogofilmes.com.br`,
     home: {
-      title: `WOGO FILMES`,
-      description: `Aqui as ideias que se transformam em vídeos capazes de conectar pessoas. Do roteiro, à produção e à finalização completa de cada projeto..`,
+      title: `buenavistalab Content Management System`,
+      description: `A simple bootstrap to initialize a Content Management System project`,
     }
   },
   plugins: [
@@ -19,13 +19,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `WOGO FILMES`,
-        short_name: `WOGO FILMES`,
+        name: `buenavistalab Content Management System`,
+        short_name: `buenavistalab Content Management System`,
         start_url: `/`,
         background_color: `#0d518c`,
         theme_color: `#0d518c`,
         display: `minimal-ui`,
-        icon: `static/assets/logos/logo.jpg`,
+        icon: `static/assets/logos/logo.png`,
       }
     },
     'gatsby-plugin-offline',

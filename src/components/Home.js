@@ -1,8 +1,8 @@
 import React from 'react'
 import './Home.scss'
 
-import Logo from '../../static/assets/logos/Logo-Wogo.png'
-import Intro from '../../static/assets/intro.mp4'
+import Logo from '../../static/assets/logos/bvl-icon.png'
+import Intro from '../../static/assets/videos/intro.mp4'
 
 const Home = () => {
   return (
@@ -14,10 +14,10 @@ const Home = () => {
         </video>
       </div>
       <div className="home-wrapper container">
-        <img src={Logo} alt="logo wogo filmes" />
+        <img src={Logo} alt="logo bvl" />
         <h3>
-          Aqui as ideias que se transformam em vídeos capazes de conectar pessoas.
-          Do roteiro, à produção e à finalização completa de cada projeto.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua.
         </h3>
       </div>
     </>

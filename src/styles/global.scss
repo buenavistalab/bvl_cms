@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inria+Sans:wght@400;700&display=swap');
 :root {
-  --yellow: #f1ee2d;
+  --green: #8efb00;
   --blue: rgb(115, 204, 255);
   --dark-gray: rgb(92, 92, 92);
   --light-gray: rgb(192, 192, 192);
@@ -10,10 +10,10 @@
 }
 body.light {
   --background: #fff;
-  --text-color: #000;
+  --text-color: rgb(36, 36, 36);
 }
 body.dark {
-  --background: #000;
+  --background: rgb(36, 36, 36);
   --text-color: #fff;
 }
 html,
@@ -40,10 +40,10 @@ body {
   width: 0.4rem;
 }
 ::-webkit-scrollbar-thumb {
-  background-color: var(--yellow);
+  background-color: var(--green);
 }
 ::selection {
-  background-color: var(--yellow);
+  background-color: var(--green);
   color: var(--blue);
 }
 a {
@@ -126,7 +126,7 @@ body.light {
   width: 24px;
   height: 24px;
   cursor: pointer;
-  color: var(--yellow);
+  color: var(--green);
 }
 // CSS.gg icons for sun and moon
 .gg-sun {

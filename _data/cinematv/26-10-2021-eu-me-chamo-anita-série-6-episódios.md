@@ -1,11 +1,11 @@
 ---
 template: CinemaTV
-img: /assets/eu-me-chamo-anita.jpg
-title: EU ME CHAMO ANITA | Série, 6 episódios
-subtitle: Projeto em fase de captação
+img: /assets/images/circle.png
+title: The standard Lorem Ipsum passage, used since the 1500s
+subtitle: Lorem Ipsum
 ---
 Gênero: Drama/Histórico
 
 
 
-Apesar de uma infância difícil e um casamento forçado, Ana Maria de Jesus Ribeiro decidiu lutar na guerra, não só pela liberdade de milhares de pessoas, mas também para encontrar o seu lugar no mundo. Na primeira temporada de "Eu me chamo Anita" acompanhamos a sua trajetória, desde os momentos finais de seu primeiro matrimônio, até seu batismo de fogo: em uma grande batalha em alto mar junto da revolução. Uma história sobre os nossos conflitos internos, sobre recomeço, e sobre como uma menina do litoral catarinense se tornou a tão conhecida Anita: “A heroína de dois mundos".
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

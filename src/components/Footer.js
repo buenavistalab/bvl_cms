@@ -7,25 +7,25 @@ const FooterWrapper = () => {
     <footer>
       <div className="footer-wrapper container">
         <div className="infos">
-          <p>Avenida Rio Branco</p>
-          <p>Nº 404, Sala 307, Bloco 1 - Centro</p>
-          <p>Florianópolis - SC</p>
+          <p>Av. ABC</p>
+          <p>Nº 666, Downtown</p>
+          <p>São Paulo, Brasil</p>
         </div>
         <div className="infos">
-          <a href="https://instagram.com/wogofilmes">
-            <Instagram color={"var(--text-color)"} />
+          <a href="https://instagram.com/">
+            <Instagram color={"var(--green)"} />
           </a>
-          <a href="https://vimeo.com/wogofilmes">
-            <Film color={"var(--text-color)"} />
+          <a href="https://vimeo.com/">
+            <Film color={"var(--green)"} />
           </a>
         </div>
         <div className="infos">
-          <p>contato@wogofilmes.com.br</p>
+          <p>hi@buenavistalab.com</p>
         </div>
       </div>
       <div className="copyright">
         <p>
-          Copyright © 2021 WOGO FILMES.
+          Copyright © 2022 buenavistalab softwares
           <br />
           All rights reserved.
         </p>

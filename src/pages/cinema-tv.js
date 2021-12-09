@@ -20,10 +20,9 @@ const CinemaTV = ({
     <Layout>
       <div className="cinematv-wrapper container">
         <div className="cine-header-wrapper">
-          <h1>Cinema & TV</h1>
+          <h1>Lorem Ipsum</h1>
           <p>
-            Desde 2015, a Wogo Filmes possui um braço totalmente dedicado à produção
-            de conteúdos de entretenimento para cinema e TV.
+            Section 1.10.33 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
           </p>
         </div>
         {data && data.map(el =>

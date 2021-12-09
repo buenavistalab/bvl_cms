@@ -4,7 +4,7 @@ import { Menu, X } from 'react-feather'
 import 'prismjs/themes/prism-okaidia.css'
 import ThemeChanger from "./ThemeChanger"
 
-import Logo from '../../static/assets/logos/wogo-filmes-logo.png'
+import Logo from '../../static/assets/logos/logo.png'
 import './Header.scss'
 
 const Header = () => {
@@ -24,10 +24,9 @@ const Header = () => {
           </div>
         </div>
         <div className="header-right-desk">
-          <Link to={"/trabalhos"}>Trabalhos</Link>
-          <Link to={"/clientes"}>Clientes</Link>
-          <Link to={"/cinema-tv"}>Cinema e TV</Link>
-          <Link to={"/contato"}>Contato</Link>
+          <Link to={"/trabalhos"}>Lorem 1</Link>
+          <Link to={"/clientes"}>Lorem 2</Link>
+          <Link to={"/cinema-tv"}>Lorem 3</Link>
           <ThemeChanger />
         </div>
         <button
@@ -36,7 +35,7 @@ const Header = () => {
         >
           {isOpen ?
             <X
-              color={"var(--yellow)"}
+              color={"var(--green)"}
               className="x"
             />
               :
